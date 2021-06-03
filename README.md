@@ -24,7 +24,7 @@ const otherlangs = ["HTML", "CSS"];
 <br/>
 <h2><i>GitHub <img src="https://user-images.githubusercontent.com/77354554/120591842-1397a600-c452-11eb-803c-af55aa5d0fca.gif" alt="gif"/></i></h2>
 <hr>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Dixpie&show_icons=true&locale=en&layout=compact&theme=radical" withd="100px" height="200px" alt="github"/><img src="https://github-readme-stats.vercel.app/api?username=Dixpie&show_icons=true&locale=en&theme=radical" withd="100px" height="200px" alt="github"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=Milad-Lexington&show_icons=true&locale=en&layout=compact&theme=radical" withd="100px" height="200px" alt="github"/><img src="https://github-readme-stats.vercel.app/api?username=Milad-Lexington&show_icons=true&locale=en&theme=radical" withd="100px" height="200px" alt="github"/>
 <hr>
 <br>
 <br>
